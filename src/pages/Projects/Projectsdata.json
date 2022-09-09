@@ -4,8 +4,8 @@
 		{
 			"date":"September 2022",
 			"name":"Portfolio site",
-			"sourceCodeLink":"https://github.com/Stormvind/SALT-activity-knot-backend",
-			"deployedAppLink":"https://activity-knot.herokuapp.com/",
+			"sourceCodeLink":"https://github.com/Stormvind/portfolio",
+			"deployedAppLink":"https://stormvind-portfolio.herokuapp.com/",
 			"description":"The site that you are on right now! As I make more things, I will post them here.",
 			"imgPath":"portfolio.png"
 		},
