@@ -1,0 +1,29 @@
+.main
+{
+	min-height: calc(100vh - 140px);
+}
+
+.first-text
+{
+	color: gray;
+	padding: 50px;
+	font-size: 16px;
+	text-align: center;
+}
+
+.large-text
+{
+	color: rgb(89, 90, 93);	
+	font-size:30px;
+}
+
+.photo
+{
+	width: 100%;
+	height: auto;
+}
+
+.bio-text
+{
+	padding: 20px;
+}

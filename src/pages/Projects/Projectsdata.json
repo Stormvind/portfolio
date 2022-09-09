@@ -1,0 +1,21 @@
+{
+	"projects": 
+	[
+		{
+			"date":"September 2022",
+			"name":"Portfolio site",
+			"sourceCodeLink":"https://github.com/Stormvind/SALT-activity-knot-backend",
+			"deployedAppLink":"https://activity-knot.herokuapp.com/",
+			"description":"The site that you are on right now! As I make more things, I will post them here.",
+			"imgPath":"portfolio.png"
+		},
+		{
+			"date":"July 2022",
+			"name":"Activity Knot",
+			"sourceCodeLink":"https://github.com/Stormvind/SALT-activity-knot-backend",
+			"deployedAppLink":"https://activity-knot.herokuapp.com/",
+			"description":"This is an application that my mob and I made for a 9 day jam when we were training at </salt>. Its concept is to help people with the same interests meet up and practice them in person.",
+			"imgPath":"activityknot.png"
+		}
+	]
+}
