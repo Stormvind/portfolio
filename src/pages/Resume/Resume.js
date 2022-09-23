@@ -42,6 +42,7 @@ function Resume() {
                     </div>
                     <div className="left-column__skill-item">
                         <h4 className="resume-h4">Tools</h4>
+                        <div className="resume-div-text">TypeScript</div>
                         <div className="resume-div-text">Mocha, Jest</div>
                         <div className="resume-div-text">Docker</div>
                         <div className="resume-div-text">Git, Github</div>
