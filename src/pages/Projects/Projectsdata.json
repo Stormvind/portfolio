@@ -6,7 +6,7 @@
 			"name":"Portfolio site",
 			"sourceCodeLink":"https://github.com/Stormvind/portfolio",
 			"deployedAppLink":"https://stormvind-portfolio.herokuapp.com/",
-			"description":"The site that you are on right now! As I make more things, I will post them here.",
+			"description":"The site that you are on right now. It is made with React. The server is a simple Node and Express application. The project entries such as this one are pulled from a JSON file and rendered on the page. I like databases, but for this use case, a database would be overkill.",
 			"imgPath":"portfolio.png"
 		},
 		{
@@ -14,7 +14,7 @@
 			"name":"Activity Knot",
 			"sourceCodeLink":"https://github.com/Stormvind/SALT-activity-knot-backend",
 			"deployedAppLink":"https://activity-knot.herokuapp.com/",
-			"description":"This is an application that my mob and I made for a 9 day jam when we were training at </salt>. Its concept is to help people with the same interests meet up and practice them in person.",
+			"description":"This is an application that my mob and I made for a 9 day jam when we were training at </salt>, from idea to planning to execution. Its concept is to help people with the same interests meet up and practice them in person. We got the idea after a mob member wanted to play basketball during a weekend, but couldn't find anywhere or any one to play. It is made with the SERN stack: SQL, Express, React, and Node. Sessions are handled with the Express session library. The passwords of users are hashed using Argon2.",
 			"imgPath":"activityknot.png"
 		}
 	]

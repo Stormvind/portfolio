@@ -4,12 +4,29 @@
 	flex-direction: column;
 	justify-content: space-around;
 	height: 50px;
-	background-color: #cccccc;
+	background-color: #0C2627;
 	padding: 3xp;
 	margin-top: 20px;
+	overflow: hidden;
 }
 
-.footer__p
+.footer__a
 {
+	font-family: 'Courier New', Courier, monospace, Verdana, 'Trebuchet MS';
 	text-align: center;
+	color: #9A9A9A;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.footer__a:hover
+{
+	background-color: #808080;
+	color: #0C2627;
+}
+
+.footer__a:active
+{
+	background-color: #31959A;
+	color: #0C2627;
 }

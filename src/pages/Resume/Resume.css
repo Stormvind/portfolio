@@ -1,0 +1,149 @@
+.main-content
+{
+	min-height: calc(100vh - 420px);
+}
+
+@media screen and (max-width: 600px)
+{
+    .photo
+    {
+        height: 225px;
+        width: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .main-content-header
+	{
+		padding-right: 20px;
+        padding-left: 20px;
+	}
+
+    .main-content
+    {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .resume-h2
+    {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+
+    .resume-h3
+    {
+        border-top: 2px solid #0C2627;
+        padding-top: 20px;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .resume-h4
+    {
+        font-size: 16px;
+        padding-top: 15px;
+    }
+
+    .resume-h5
+    {
+        font-size: 15px;
+    }
+
+    .resume-p
+    {
+        font-size: 16px;
+    }
+
+    .resume-div-text
+    {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 601px)
+{
+
+    .photo
+    {
+        height: 200px;
+        width: auto;
+        padding-right: 50px;
+    }
+
+    .main-content-header
+    {
+        display: flex;
+        direction: row;
+        align-items: center;
+        padding-right: 75px;
+        padding-left: 75px;
+        justify-content: center;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .resume-h2
+    {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+
+    .resume-h3
+    {
+        border-top: 2px solid #0C2627;
+        padding-top: 20px;
+        font-size: 20px;
+    }
+
+    .main-content
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-right: 75px;
+        padding-left: 75px;
+    }
+
+    .main-content__left-column
+    {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .left-column__skills
+    {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .main-content__right-column
+    {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .right-column__experience
+    {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-around;
+    }
+
+    .right-column__training
+    {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-around;
+    }
+}

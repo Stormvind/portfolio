@@ -6,7 +6,7 @@
 
 .nav__a
 {
-	color: black;
+	color: #9A9A9A;
 	width: 125px;
 	text-align: center;
 	padding-top: 14px;
@@ -17,10 +17,11 @@
 .nav__a:hover
 {
 	background-color: #808080;
+	color: #0C2627;
 }
 
 .nav__a:active
 {
-	background-color: black;
-	color: white;
+	background-color: #31959A;
+	color: #0C2627;
 }

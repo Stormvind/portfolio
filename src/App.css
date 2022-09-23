@@ -13,7 +13,24 @@
 /************ All monitors ************/
 body
 {
-	font-family: Verdana, Candara, Trebuchet MS;
+	font-family: 'Courier New', Courier, monospace, Verdana, 'Trebuchet MS';
+	background-color: black;
+	color: #9A9A9A;
+}
+
+h2, h3
+{
+	color: #31959A;
+}
+
+h4
+{
+	color: #247074;
+}
+
+h5
+{
+	color: #247074;
 }
 
 .hamburger-checkbox
