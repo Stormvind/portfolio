@@ -9,7 +9,7 @@
 	.project-main-content__name
 	{
 		text-align: center;
-		font-size: 22px;
+		font-size: 35px;
 		padding-bottom: 10px;
 	}
 
@@ -28,6 +28,11 @@
 	{
 		margin-top: 25px;
 	}
+
+	.project-main-content__entry-wrapper
+	{
+		margin-bottom: 75px;
+	}
 		
 }
 
@@ -39,6 +44,8 @@
 		flex-direction: column;
 		justify-content: space-around;
 		min-height: calc(100vh - 140px);
+		padding-right: 40px;
+        padding-left: 40px;
 	}
 
 	.project-main-content__img
